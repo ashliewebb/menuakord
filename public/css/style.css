@@ -1,0 +1,27 @@
+@import url(http://fonts.googleapis.com/css?family=Oldenburg);
+
+body {
+    background: url('../images/bg-tile.png') repeat;
+    color: #717975;
+    font-family: 'Oldenburg', Times New Roman, Times, serif;
+    line-height: 32px;
+    text-align: center;
+}
+
+#logo-svg {
+    max-width: 312px;
+    width: 100%;
+}
+
+h1, h2 {
+    font-size: 1em;
+    font-weight: normal;
+}
+
+h1 {
+    text-transform: lowercase;
+}
+
+a {
+    color: #717975;
+}
