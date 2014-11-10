@@ -3,5 +3,8 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 302.8 59.5" enable-background="new 0 0 302.8 59.5" xml:space="preserve">
+	 <style type="css/text">
+	 @import url(http://fonts.googleapis.com/css?family=Oldenburg);
+	 </style>
 <text transform="matrix(1 0 0 1 0 45.7412)"><tspan x="0" y="0" fill="#8FCBBF" font-family="'Oldenburg-Regular'" font-size="52">menu</tspan><tspan x="147" y="0" fill="#5D615F" font-family="'Oldenburg-Regular'" font-size="52">akord</tspan></text>
 </svg>
