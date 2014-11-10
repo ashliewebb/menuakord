@@ -1,11 +1,15 @@
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-baseurl: ""
-url: "http://yourdomain.com"
-twitter_username: jekyllrb
-github_username:  jekyll
+title:            Menu Akord
+email:            greetings@ashliewebb.com
+description:      "An accordion-style menu using css3 transitions."
+baseurl:          ""
+url:              "http://www.ashilewebb.com/menuakord"
+author:
+  name:           Ashile Webb
+  url:            http://www.ashliewebb.com
+  email:          greetings@ashliewebb.com
+twitter_username: ashlie012
+github_username:  ashliewebb
 
 # Build settings
 markdown: kramdown
