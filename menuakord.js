@@ -1,7 +1,7 @@
 /*global document, window, console, Modernizr*/
-var Sainsburys = Sainsburys || {};
+var App = App || {};
 
-Sainsburys.MobileMenu = (function (window, $, Modernizr) {
+App.MobileMenu = (function (window, $, Modernizr) {
     "use strict";
     return {
         init: function () {
